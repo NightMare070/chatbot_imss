@@ -96,14 +96,14 @@
 		},
 		{
 			"tag": "asignacion_nss",
-			"patrones":["asignacion nss", "asignar nss", "asignacion nss", "asignar nss", "localizar nss", "obtener nss", "saber nss", "asignen nss", "den nss", "pedir nss", "localicen nss", "asignacion numero seguro social", "asignar numero seguro social", "asignacion numero seguro social", "asignar numero seguro social", "localizar numero seguro social", "obtener numero seguro social", "saber numero seguro social", "asignen numero seguro social", "den numero seguro social", "pedir numero seguro social", "localicen numero seguro social"],
+			"patrones":["asignacion nss", "asignar nss", "localizar nss", "obtener nss", "saber nss", "asignen nss", "den nss", "pedir nss", "localicen nss", "asignacion numero seguro social", "asignar numero seguro social", "asignacion numero seguro social", "asignar numero seguro social", "localizar numero seguro social", "obtener numero seguro social", "saber numero seguro social", "asignen numero seguro social", "den numero seguro social", "pedir numero seguro social", "localicen numero seguro social"],
 			"respuestas":[
 				"Este tramite cuenta con modalidad tanto presencial como en linea. Para realizar el tramite en linea debera entrar al siguiente link y tener a la mano un correo electronico donde le llegara toda la información y su CURP. https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/asignacionNSS;JSESSIONIDASEGEXTERNO=Wmle4dHJBfUuckhnc0tp3p26Yf0mShg7udNAfPlNHRuL28mPSKA4!-1100133577 Si desea realizar el tramite presencial debera acudir a su clinica más cercana de lunes a viernes de 8 a 15 horas con su acta de nacimeinto identificación oficial, CURP y poder notarial en caso de que el registro de nacimiento se haya realizado por Autoridad Civil (DIF y PGR)."
 			]
 		},
 		{
 			"tag": "certificado_discapacidad",
-			"patrones":["obtener certificacdo discapacidad", "obtener certificado discapacidad articulo 186", "sacar certificacdo discapacidad", "sacar certificado discapacidad articulo 186"],
+			"patrones":["obtener certificado discapacidad", "obtener certificado discapacidad articulo 186", "sacar certificacdo discapacidad", "sacar certificado discapacidad articulo 186"],
 			"respuestas":[
 				"Para obetner su certificado de discapacidad con fines de aplicación del artículo 186 de la Ley del Impuesto Sobre la Renta debera acudir a su clinica asignada de lunes a vierns en un horario de 8 a 19 horas con los siguientes documentos: Solicitud de Certificado de Discapacidad que obtendra en el siguiente link: http://www.imss.gob.mx/sites/all/statics/pdf/tramites-varios/certif-186-solicitud-instructivo.pdf Identificación oficial con fotografia y firma Copia del aviso de inscripción al IMSS del trabajador de la liquidación del pago de cuotas obrero-patronales del Sistema Único de Autodeterminación (SUA) o Emisión Mensual Anticipada (EMA)"
 			]
