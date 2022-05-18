@@ -1,5 +1,4 @@
 #Bot de ayuda para tramites del IMSS
-
 #Definimos el saludo de inicio
 def saludo():
     print("Bienvenido al chatbot del IMSS. Puedo ayudarte a resolver tus dudas sobre algún tramite.")
